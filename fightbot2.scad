@@ -425,8 +425,8 @@ module rueda(d, d_goma) {
 
 module fightbot(){
 
-    translate([5,7.5,0])
-    electronica();
+    //translate([5,7.5,0])
+    //electronica();
 
     color("yellow")
     translate([0,0,-4])
